@@ -1,8 +1,9 @@
 # Reliable-Air-Data-System-for-Small-UAS
 
 This folder contains my PhD final Defense Slides and link to my defense talk. 
+Youtube Link: 
 
-## Reliable Air Data Solutions for Small Unmanned Aircraft Systems##
+## Reliable Air Data Solutions for Small Unmanned Aircraft Systems
 
 ### Abstract ###
 A reliable Air Data System (ADS) ensures the safety and performance of an aircraft. A redundant ADS design, or the hardware redundancy approach, guarantees the reliability of the ADS. However, hardware redundancy is not feasible for small Unmanned Aerial Systems (UAS). Not only is a decent ADS expensive, but many small UAS cannot have multiple ADS due to size, weight, and power constraints. The impracticality and limitations of hardware redundancy have led to an increasing research interest in designing alternative ADS in the last decade. In particular, estimating air data quantities, often denoted as Synthetic Air Data System (SADS), has become a viable strategy to improve the reliability of ADS on small UAS.
