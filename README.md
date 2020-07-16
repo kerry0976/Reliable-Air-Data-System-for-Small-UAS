@@ -2,7 +2,7 @@
 
 This folder contains my PhD final Defense Slides and link to my defense talk. 
 
-Youtube Link: 
+Youtube Link: https://youtu.be/if1iN6_L9dk
 
 ## Reliable Air Data Solutions for Small Unmanned Aircraft Systems
 
