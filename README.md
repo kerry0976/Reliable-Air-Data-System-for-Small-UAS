@@ -2,6 +2,8 @@
 
 This folder contains my PhD final Defense Slides and link to my defense talk. 
 
+Dissertation: http://hdl.handle.net/11299/216822
+
 Slides: https://github.com/kerry0976/Reliable-Air-Data-System-for-Small-UAS/blob/master/PhDFinalDefense_KerrySun.pdf
 
 Youtube Link: https://youtu.be/if1iN6_L9dk
