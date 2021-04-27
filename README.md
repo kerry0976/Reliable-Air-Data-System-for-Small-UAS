@@ -8,6 +8,8 @@ Slides: https://github.com/kerry0976/Reliable-Air-Data-System-for-Small-UAS/blob
 
 Youtube Link: https://youtu.be/if1iN6_L9dk
 
+Recent Talk given by my advisor on Synthetic Air data Estimator: "https://zh-cn.facebook.com/IEEEAESS/videos/synthetic-air-data-systems-using-sensor-fusion-to-estimate-air-data-parameters/133007242138380/?__so__=permalink&__rv__=related_videos"
+
 ## Reliable Air Data Solutions for Small Unmanned Aircraft Systems
 
 ### Abstract ###
