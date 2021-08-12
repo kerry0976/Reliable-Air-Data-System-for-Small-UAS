@@ -8,7 +8,7 @@ Slides: https://github.com/kerry0976/Reliable-Air-Data-System-for-Small-UAS/blob
 
 Youtube Link: https://youtu.be/if1iN6_L9dk
 
-Recent Talk (04/20/2021) given by my advisor: "Synthetic Air data Systems using Sensor Fusion to Estimate Air Data Parameters" by Demoz Gebre-Egziabher: "https://zh-cn.facebook.com/IEEEAESS/videos/synthetic-air-data-systems-using-sensor-fusion-to-estimate-air-data-parameters/133007242138380/?__so__=permalink&__rv__=related_videos"
+Recent Talk (04/20/2021) given by my advisor: "Synthetic Air data Systems using Sensor Fusion to Estimate Air Data Parameters" by Demoz Gebre-Egziabher: **https://www.dropbox.com/s/zuaou9bv8es251t/2021%20AESS%20VDL_Gebre-Egziabher_Edited.mp4?dl=0**
 
 Abstract: http://ieee-aess.org/webinar-series-april/gebre-egziabher
 
